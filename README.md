@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello  👋
 
-<!--
-**humingfeng/humingfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+关注Github：[1/2极客](https://github.com/humingfeng)
+
+关注博客：[御前提笔小书童](https://blog.csdn.net/qq_22260641)
+
+关注网站：[开发者的花花世界](https://royalscholar.cn)
+
+关注公众号：开发者的花花世界
+
+![](https://img-blog.csdnimg.cn/20190106225239166.jpg)
+---
