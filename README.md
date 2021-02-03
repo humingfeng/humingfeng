@@ -1,3 +1,4 @@
+![](https://humf-001.oss-cn-beijing.aliyuncs.com/qrcode/github.jpeg?OSSAccessKeyId=LTAI9M4ArWPmLg8r&Expires=3601612340125&Signature=L2W2nWm3LJP0VU9Og%2BIJlZ5lPYE%3D)
 ### 欢迎来到我的GitHub主页  👋
 
 喜时不诺，怒时不争，哀时不语，倦时有终；
